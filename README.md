@@ -248,3 +248,5 @@ This project is provided as-is for educational purposes.
 - Solution: Adjust feature thresholds or retrain with more examples
 
 
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/8002fae7-7da7-491e-a348-e9b924d517e7" />
+
